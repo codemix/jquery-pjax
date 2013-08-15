@@ -96,6 +96,12 @@ Or add `jquery-pjax` to your apps `bower.json`.
   }
 ```
 
+Or install with [component(1)](http://component.io):
+
+```
+$ component install codemix/jquery-pjax
+```
+
 ### standalone
 
 pjax can be downloaded directly into your app's public directory - just be sure you've loaded jQuery first.

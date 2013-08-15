@@ -1,0 +1,16 @@
+{
+  "name": "jquery-pjax",
+  "repo": "codemix/jquery-pjax",
+  "description": "Componentified version of defunkt's jquery-pjax.",
+  "version": "1.7.3",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "jquery.pjax.js",
+  "scripts": [
+    "jquery.pjax.js"
+  ]
+}
